@@ -38,9 +38,10 @@
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
+  <!-- Bootstrap (jsDelivr) -->
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+</a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
   </a>
@@ -53,10 +54,12 @@
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
   </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <!-- Laravel icon (wordmark) -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  </a>
+
+
+<!-- Laravel (jsDelivr) -->
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
+</a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
