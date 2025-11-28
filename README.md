@@ -36,7 +36,9 @@
 <p align="left">
   <!-- Icons (clickable) -->
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+   
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" />
+          
   </a>
   <!-- Bootstrap (jsDelivr) -->
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -83,18 +85,6 @@
   </a>
 </p>
 
----
-
-### ⭐ Featured Projects
-- **Portfolio & Projects** — Check full project list on my portfolio: https://myatthuta.onrender.com/  
-- *(Replace or add your top 3 project links here with short descriptions and tech used.)*
-
----
-
-### 📚 Blog
-I regularly write articles and tutorials on web & mobile development. See them at https://myatthuta.onrender.com/
-
----
 
 ### 📫 Contact
 - Email: **myatthuta232@gmail.com**  
