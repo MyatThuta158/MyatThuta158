@@ -26,7 +26,6 @@
 
 ### 🌟 Quick links
 - Portfolio & projects — https://myatthuta.onrender.com/  
-- Blog & articles — https://myatthuta.onrender.com/  
 - CV (PDF) — https://myatthuta.onrender.com/img/CV.pdf  
 - Email — **myatthuta232@gmail.com** 
 
