@@ -2,7 +2,9 @@
 <h3 align="center">Full-Stack Developer · Crafting Scalable Systems & Intuitive Interfaces</h3>
 
 <p align="center">
-  <a href="https://myatthuta.onrender.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0EA5E9&center=true&vcenter=true&width=500&lines=Full-Stack+Developer;Front-End+%2B+Back-End+Architect;Turning+complex+problems+into+elegant+code" alt="Typing SVG" /></a>
+  <a href="https://myatthuta.onrender.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0EA5E9&center=true&vcenter=true&width=500&lines=Full-Stack+Developer;Front-End+%2B+Back-End+Architect;Turning+complex+problems+into+elegant+code" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -18,14 +20,14 @@
 </p>
 
 <p align="center">
-  <img alt="visitor count" src="https://visitor-badge.laobi.icu/badge?page_id=MyatThuta.myatthuta&left_color=gray&right_color=0ea5e9"/>
+  <img alt="Visitor Count" src="https://visitor-badge.laobi.icu/badge?page_id=MyatThuta.myatthuta&left_color=gray&right_color=0ea5e9"/>
 </p>
 
 ---
 
-### 🚀 About Me
+# 🚀 About Me
 
-I specialize in modern full-stack development, bridging the gap between sleek user experience and solid backend architecture. 
+I specialize in modern full-stack development, bridging the gap between sleek user experience and solid backend architecture.
 
 - 🔭 **Focus:** Building responsive web platforms & modern mobile applications.
 - 🎨 **Engineering & Design:** Turning complex requirements into clean, maintainable code and scalable database structures.
@@ -33,9 +35,10 @@ I specialize in modern full-stack development, bridging the gap between sleek us
 
 ---
 
-### 🛠 Tech Stack & Ecosystem
+# 🛠 Tech Stack & Ecosystem
 
-**Frontend & Mobile**
+## Frontend & Mobile
+
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
@@ -46,7 +49,8 @@ I specialize in modern full-stack development, bridging the gap between sleek us
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-**Backend & Databases**
+## Backend & Databases
+
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -59,14 +63,32 @@ I specialize in modern full-stack development, bridging the gap between sleek us
 
 ---
 
-### 📈 GitHub Activity & Achievements
+# 📈 GitHub Activity & Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MyatThuta&theme=tokyonight&margin-w=15&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MyatThuta&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MyatThuta&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" width="100%" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MyatThuta&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MyatThuta&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyatThuta&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+# 🌟 Let's Connect
+
+<p align="center">
+  <a href="https://myatthuta.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:myatthuta232@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
