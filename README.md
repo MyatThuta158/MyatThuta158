@@ -11,9 +11,11 @@
   <a href="https://myatthuta.onrender.com/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-myatthuta.onrender.com-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
+
   <a href="mailto:myatthuta232@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-myatthuta232%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://myatthuta.onrender.com/img/CV.pdf" target="_blank">
     <img alt="CV" src="https://img.shields.io/badge/CV-Download-10B981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
@@ -63,19 +65,15 @@ I specialize in modern full-stack development, bridging the gap between sleek us
 
 ---
 
-# 📈 GitHub Activity & Achievements
+# ⚙️ Tools & Technologies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MyatThuta&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MyatThuta&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MyatThuta&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyatThuta&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<p>
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
 </p>
 
 ---
@@ -84,8 +82,9 @@ I specialize in modern full-stack development, bridging the gap between sleek us
 
 <p align="center">
   <a href="https://myatthuta.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
+
   <a href="mailto:myatthuta232@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
